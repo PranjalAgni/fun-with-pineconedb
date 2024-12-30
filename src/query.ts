@@ -1,3 +1,4 @@
+// add more querying logic
 import { pc } from "./pinecone";
 import { isValidEmbedding } from "./utils/embeddings";
 import {
