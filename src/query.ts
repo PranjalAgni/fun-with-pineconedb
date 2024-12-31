@@ -1,4 +1,5 @@
 // add more querying logic
+// happy new year it was good 2024 🚀💚✨
 import { pc } from "./pinecone";
 import { isValidEmbedding } from "./utils/embeddings";
 import {
