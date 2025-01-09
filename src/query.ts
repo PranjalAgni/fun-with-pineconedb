@@ -2,6 +2,7 @@
 // happy new year it was good 2024 🚀💚✨
 // read the deffered query in SQL
 // write more app code 
+// need to build it in the weekend
 
 import { pc } from "./pinecone";
 import { isValidEmbedding } from "./utils/embeddings";
