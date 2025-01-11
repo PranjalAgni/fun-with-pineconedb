@@ -4,6 +4,7 @@
 // write more app code 
 // need to build it in the weekend
 // work on this now
+// shopping day 🛒🛍️
 
 import { pc } from "./pinecone";
 import { isValidEmbedding } from "./utils/embeddings";
